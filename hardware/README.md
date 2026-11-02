@@ -29,7 +29,9 @@ A dedicated functional block diagram is not included in the available product-sp
 
 ![DevLab I2C LM35 Temperature Sensor bottom view](resources/unit_btm_v_1_0_ue0169_devlab_i2c_lm35_temperature_sensor_3d.png)
 
-A product-specific electrical schematic is not included in the available files.
+### Schematic
+
+[UE0169 Rev 1.0.0 schematic](unit_sch_v_1_0_0_ue0169_devlab_i2c_lm35_temperature_sensor.pdf)
 
 ## Pinout
 
@@ -66,3 +68,4 @@ The DevLab I2C LM35 Temperature Sensor is an I2C temperature sensing module in t
 
 - [Product Reference](../docs/hardware/unit_product_reference_v_1_1_0_ue0169_devlab_i2c_lm35_temperature_sensor.pdf)
 - [Product Reference source](../tools/product-reference/README.md)
+- [Electrical schematic](unit_sch_v_1_0_0_ue0169_devlab_i2c_lm35_temperature_sensor.pdf)

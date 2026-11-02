@@ -37,13 +37,15 @@ The DevLab I2C LM35 Temperature Sensor is an I2C temperature sensing module in t
 
 ## Resources
 
+- [Schematic diagram](hardware/unit_sch_v_1_0_0_ue0169_devlab_i2c_lm35_temperature_sensor.pdf)
+
 - [Hardware files and board views](hardware/README.md)
 - [Product reference source](tools/product-reference/README.md)
 - [Generic I2C scanner examples](software/README.md)
 - [Controller firmware repository](https://github.com/UNIT-Electronics-Labs/unit_firmware_i2c_lm35_module)
 - [Arduino support library](https://github.com/UNIT-Electronics-MX/unit_devlab_lm35_library)
 
-The supplied source package does not include a product-specific schematic. Check the product-specific pinout or schematic for wiring and electrical limits.
+The [UE0169 Rev 1.0.0 schematic](hardware/unit_sch_v_1_0_0_ue0169_devlab_i2c_lm35_temperature_sensor.pdf) is available. Confirm it matches the physical board before using its signal or power connections.
 
 ## 📝 License
 
