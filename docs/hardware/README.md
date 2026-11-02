@@ -1,17 +1,32 @@
-# DevLab I2C LM35 Temperature Sensor
+# DevLab I2C LM35 Temperature Sensor Hardware
 
-MPN: **UE0169**
+## Hardware Scope
 
-## Board Views
+This page records the available hardware files for **DevLab I2C LM35 Temperature Sensor** (MPN **UE0169**). Values not supported by a product-specific drawing or schematic remain unspecified.
+
+## Power Tree
+
+A dedicated board-level power-tree drawing is not included in the available product-specific files.
+
+## Block Diagram
+
+A dedicated functional block diagram is not included in the available product-specific files.
+
+## Naming Rules
+
+- Product name: **DevLab I2C LM35 Temperature Sensor**.
+- Product family: **UNIT DevLab ecosystem**.
+- MPN: **UE0169**.
+- Existing source filenames retain their published names and revisions.
+- Generated Product Reference: `unit_product_reference_v_1_1_0_ue0169_devlab_i2c_lm35_temperature_sensor.pdf`.
+
+## Hardware
 
 ![DevLab I2C LM35 Temperature Sensor top view](resources/unit_top_v_1_0_ue0169_devlab_i2c_lm35_temperature_sensor_3d.png)
 
 ![DevLab I2C LM35 Temperature Sensor bottom view](resources/unit_btm_v_1_0_ue0169_devlab_i2c_lm35_temperature_sensor_3d.png)
 
-## Mechanical Drawings
-
-- [Board dimensions](resources/unit_dimensions_v_1_1_ue0169_devlab_i2c_lm35_temperature_sensor.png)
-- [Board topology](resources/unit_topology_v_1_1_ue0169_devlab_i2c_lm35_temperature_sensor.png)
+A product-specific electrical schematic is not included in the available files.
 
 ## Pinout
 
@@ -20,3 +35,31 @@ A product-specific pinout drawing was not included in the selected source packag
 Board renders show the supplied layout. Confirm electrical limits, connector
 orientation, and mechanical tolerances against product-specific drawings before
 using the board in a final assembly.
+
+## Dimensions
+
+- [Board dimensions preview](resources/unit_dimensions_v_1_1_ue0169_devlab_i2c_lm35_temperature_sensor.png)
+- [Board dimensions PDF](unit_dimensions_v_1_1_ue0169_devlab_i2c_lm35_temperature_sensor.pdf)
+
+## Topology
+
+- [Board topology](resources/unit_topology_v_1_1_ue0169_devlab_i2c_lm35_temperature_sensor.png)
+
+## Pin & Connector Layout
+
+A verified product-specific connector map is not included in the available source package. Do not infer electrical pin assignments from the board renders.
+
+## Functional Description
+
+The DevLab I2C LM35 Temperature Sensor is an I2C temperature sensing module in the UNIT Electronics DevLab family.
+
+## Applications
+
+- Temperature monitoring with an I2C host.
+- Environmental data logging prototypes.
+- LM35 sensor integration experiments.
+
+## References
+
+- [Product Reference](../docs/hardware/unit_product_reference_v_1_1_0_ue0169_devlab_i2c_lm35_temperature_sensor.pdf)
+- [Product Reference source](../tools/product-reference/README.md)
