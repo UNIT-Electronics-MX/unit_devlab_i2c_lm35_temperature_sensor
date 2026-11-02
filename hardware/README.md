@@ -2,7 +2,11 @@
 
 ## Hardware Scope
 
-This page records the available hardware files for **DevLab I2C LM35 Temperature Sensor** (MPN **UE0169**). Values not supported by a product-specific drawing or schematic remain unspecified.
+This page records the available hardware files for **DevLab I2C LM35 Temperature Sensor**. Values not supported by a product-specific drawing or schematic remain unspecified.
+
+| Field | Value |
+|---|---|
+| MPN | UE0169 |
 
 ## Power Tree
 
@@ -16,7 +20,6 @@ A dedicated functional block diagram is not included in the available product-sp
 
 - Product name: **DevLab I2C LM35 Temperature Sensor**.
 - Product family: **UNIT DevLab ecosystem**.
-- MPN: **UE0169**.
 - Existing source filenames retain their published names and revisions.
 - Generated Product Reference: `unit_product_reference_v_1_1_0_ue0169_devlab_i2c_lm35_temperature_sensor.pdf`.
 

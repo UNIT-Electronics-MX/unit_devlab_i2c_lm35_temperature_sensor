@@ -1,7 +1,5 @@
 # DevLab I2C LM35 Temperature Sensor
 
-**MPN: UE0169**
-
 The DevLab I2C LM35 Temperature Sensor is an I2C temperature sensing module in the UNIT Electronics DevLab family.
 
 <div align="center">
