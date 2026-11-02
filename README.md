@@ -28,8 +28,6 @@ The DevLab I2C LM35 Temperature Sensor is an I2C temperature sensing module in t
 | Available visuals | Product-specific top and bottom board views |
 | Factory I2C Address | `0x33` (7-bit) |
 | DDP Device ID | `0x0113` |
-| Firmware Status | Stable |
-| Firmware .bin Date | 2026-10-21 10:58 CST |
 
 ## Applications
 
