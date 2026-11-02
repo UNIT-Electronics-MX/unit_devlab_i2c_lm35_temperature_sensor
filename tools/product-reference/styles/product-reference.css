@@ -23,7 +23,7 @@
   }
 
   @top-right {
-    content: "UNIT ATOM TEMT6000";
+    content: "UE0169 DevLab I2C LM35 Temperature Sensor";
     color: var(--ink);
     font: 700 8pt "Noto Sans", sans-serif;
     line-height: 1.3;
