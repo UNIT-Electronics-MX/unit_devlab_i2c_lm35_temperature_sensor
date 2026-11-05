@@ -3,7 +3,7 @@
 The DevLab I2C LM35 Temperature Sensor is an I2C temperature sensing module in the UNIT Electronics DevLab family.
 
 <div align="center">
-  <img src="hardware/resources/unit_top_v_1_0_ue0169_devlab_i2c_lm35_temperature_sensor_3d.png" width="450px" alt="DevLab I2C LM35 Temperature Sensor top view">
+  <img src="./hardware/resources/unit_top_v_1_1_ue0169_devlab_i2c_lm35_temperature_sensor_3d.png" width="450px" alt="DevLab I2C LM35 Temperature Sensor top view">
   <p><em>DevLab I2C LM35 Temperature Sensor</em></p>
 </div>
 
