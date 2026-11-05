@@ -25,9 +25,9 @@ A dedicated functional block diagram is not included in the available product-sp
 
 ## Hardware
 
-![DevLab I2C LM35 Temperature Sensor top view](resources/unit_top_v_1_0_ue0169_devlab_i2c_lm35_temperature_sensor_3d.png)
+![DevLab I2C LM35 Temperature Sensor top view](./resources/unit_top_v_1_1_ue0169_devlab_i2c_lm35_temperature_sensor_3d.png)
 
-![DevLab I2C LM35 Temperature Sensor bottom view](resources/unit_btm_v_1_0_ue0169_devlab_i2c_lm35_temperature_sensor_3d.png)
+![DevLab I2C LM35 Temperature Sensor bottom view](./resources/unit_btm_v_1_1_ue0169_devlab_i2c_lm35_temperature_sensor_3d.png)
 
 ### Schematic
 
@@ -35,11 +35,8 @@ A dedicated functional block diagram is not included in the available product-sp
 
 ## Pinout
 
-A product-specific pinout drawing was not included in the selected source package.
-
-Board renders show the supplied layout. Confirm electrical limits, connector
-orientation, and mechanical tolerances against product-specific drawings before
-using the board in a final assembly.
+- [English pinout](./unit_pinout_v_1_1_ue0169_devlab_i2c_lm35_temperature_sensor_en.pdf)
+- [Spanish pinout](./unit_pinout_v_1_1_ue0169_devlab_i2c_lm35_temperature_sensor_es.pdf)
 
 ## Dimensions
 
