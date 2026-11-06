@@ -46,6 +46,8 @@ A dedicated functional block diagram is not included in the available product-sp
 ## Topology
 
 - [Board topology](resources/unit_topology_v_1_1_ue0169_devlab_i2c_lm35_temperature_sensor.png)
+- [STEP model](./mechanics/unit_3d_v_1_1_ue0169_devlab_i2c_lm35_temperature_sensor.step)
+
 
 ## Pin & Connector Layout
 
